@@ -10,7 +10,7 @@
 <channel>
 	<title>My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://lmt10902.github.io/mywordpress</link>
+	<link>https://lmt10902.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 03 Jun 2021 06:32:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>MV muộn rồi mà sao còn..</title>
-		<link>http://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/</link>
-					<comments>http://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comments</comments>
+		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/</link>
+					<comments>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comments</comments>
 		
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
 		<pubDate>Thu, 27 May 2021 07:09:06 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://lmt10902.github.io/mywordpress/?p=49</guid>
+		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=49</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
@@ -36,27 +36,27 @@
 </div></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>http://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/</link>
-					<comments>http://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comments</comments>
+		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/</link>
+					<comments>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 07:28:58 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://lmt10902.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=1</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu<p class="link-more"><a class="myButt " href="http://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/">Read More</a></p>]]></description>
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu<p class="link-more"><a class="myButt " href="https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/">Read More</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
