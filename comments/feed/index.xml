@@ -11,13 +11,27 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lmt10902.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 03 Jun 2021 06:32:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 08:05:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>
+		Comment on Du lịch Sài Gòn by Mạnh Tuấn		</title>
+		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-sai-gon/#comment-12</link>
+
+		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 08:05:32 +0000</pubDate>
+		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=90#comment-12</guid>
+
+					<description><![CDATA[Hi]]></description>
+			<content:encoded><![CDATA[<p>Hi</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Comment on MV muộn rồi mà sao còn.. by Mạnh Tuấn		</title>
 		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comment-10</link>
