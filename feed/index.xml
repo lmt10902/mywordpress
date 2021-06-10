@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lmt10902.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 03 Jun 2021 06:32:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 06:14:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,50 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Du lịch đảo Phú Quốc</title>
+		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-dao-phu-quoc/</link>
+					<comments>https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-dao-phu-quoc/#respond</comments>
+		
+		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 06:14:13 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=78</guid>
+
+					<description><![CDATA[Phú Quốc là hòn đảo lớn nhất Việt Nam, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo nhỏ hơn ở lân cận và quần<p class="link-more"><a class="myButt " href="https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-dao-phu-quoc/">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Phú Quốc là hòn đảo lớn nhất Việt Nam, nằm trong vịnh Thái Lan. Đảo Phú Quốc cùng với các đảo nhỏ hơn ở lân cận và quần đảo Thổ Chu nằm cách đó 55 hải lý về phía tây nam hợp thành thành phố Phú Quốc thuộc tỉnh Kiên Giang. Đây cũng là thành phố đảo đầu tiên của Việt Nam.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1280" height="720" src="https://lmt10902.github.io/mywordpress/wp-content/uploads/2021/05/4-1.jpg" alt="" class="wp-image-16"/></figure>
+
+
+
+<p>Vùng biển Phú Quốc có 22 hòn đảo lớn nhỏ, trong đó đảo Phú Quốc lớn nhất có diện tích 580 km², dài 49 km. Địa hình thiên nhiên thoai thoải chạy từ bắc xuống nam với 99 ngọn núi đồi. Tuy nhiên, cụm đảo nhỏ của cảng An Thới bị ngăn cách hẳn với phần mũi phía nam của đảo Phú Quốc bởi một eo biển có độ sâu tới hơn 60 m.</p>
+
+
+
+<p>Đảo Phú Quốc được cấu tạo từ các đá trầm tích Mesozoi và Kainozoi, bao gồm cuội kết đa nguồn gốc phân lớp dày, sỏi thạch anh, silica, đá vôi, riolit và felsit. Các đá Mesozoi thuộc hệ tầng Phú Quốc (K pq). Trầm tích Kainozoi thuộc các hệ tầng Long Toàn (Pleistocene giữa &#8211; trên), hệ tầng Long Mỹ (Pleistocene trên), hệ tầng Hậu Giang (Holocene dưới &#8211; giữa), các trầm tích Holocene trên và các trầm tích Đệ Tứ không phân chia (Q).</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://lmt10902.github.io/mywordpress/wp-content/uploads/2021/05/7.jpg" alt="" class="wp-image-11" width="827" height="518"/></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://lmt10902.github.io/mywordpress/wp-content/uploads/2021/05/5.jpg" alt="" class="wp-image-9" width="828" height="662"/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-dao-phu-quoc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>MV muộn rồi mà sao còn..</title>
 		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/</link>
 					<comments>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comments</comments>

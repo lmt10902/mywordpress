@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://lmt10902.github.io/mywordpress/wp-login.php?action=lostpassword">Lost your password?</a>
+								<a href="https://lmt10902.github.io/mywordpress/tai-khoan/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -92,7 +92,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://lmt10902.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"6cb7e35853"};
+var userProfileL10n = {"user_id":"0","nonce":"22c349fdd6"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
