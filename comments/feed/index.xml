@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comments for My WordPress	</title>
+	Bình luận cho Royal Shoes	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lmt10902.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Sự thoải mái của bạn làm hài lòng chúng tôi</description>
 	<lastBuildDate>Thu, 10 Jun 2021 08:05:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Comment on Du lịch Sài Gòn by Mạnh Tuấn		</title>
+		Phản hồi cho Du lịch Sài Gòn bởi Mạnh Tuấn		</title>
 		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-sai-gon/#comment-12</link>
 
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		Comment on MV muộn rồi mà sao còn.. by Mạnh Tuấn		</title>
+		Phản hồi cho MV muộn rồi mà sao còn.. bởi Mạnh Tuấn		</title>
 		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comment-10</link>
 
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
@@ -47,7 +47,7 @@
 			</item>
 		<item>
 		<title>
-		Comment on Chào tất cả mọi người! by Một người bình luận WordPress		</title>
+		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
 		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>

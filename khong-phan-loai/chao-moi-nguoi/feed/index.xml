@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comments on: Chào tất cả mọi người!	</title>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/khong-phan-loai/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Sự thoải mái của bạn làm hài lòng chúng tôi</description>
 	<lastBuildDate>Thu, 03 Jun 2021 06:32:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		By: Một người bình luận WordPress		</title>
+		Bởi: Một người bình luận WordPress		</title>
 		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>

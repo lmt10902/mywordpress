@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Mạnh Tuấn &#8211; My WordPress</title>
+	<title>Mạnh Tuấn &#8211; Royal Shoes</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/m-tuan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lmt10902.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Sự thoải mái của bạn làm hài lòng chúng tôi</description>
 	<lastBuildDate>Thu, 10 Jun 2021 08:04:55 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
