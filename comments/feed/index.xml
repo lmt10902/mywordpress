@@ -9,7 +9,7 @@
 	<title>
 	Bình luận cho Royal Shoes	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lmt10902.github.io/mywordpress</link>
+	<link>./../../index.html</link>
 	<description>Sự thoải mái của bạn làm hài lòng chúng tôi</description>
 	<lastBuildDate>Thu, 10 Jun 2021 08:05:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Phản hồi cho Du lịch Sài Gòn bởi Mạnh Tuấn		</title>
-		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/du-lich-sai-gon/#comment-12</link>
+		<link>./../../khong-phan-loai/du-lich-sai-gon/index.html#comment-12</link>
 
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 08:05:32 +0000</pubDate>
-		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=90#comment-12</guid>
+		<guid isPermaLink="false">./../../index.html?p=90#comment-12</guid>
 
 					<description><![CDATA[Hi]]></description>
 			<content:encoded><![CDATA[<p>Hi</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Phản hồi cho MV muộn rồi mà sao còn.. bởi Mạnh Tuấn		</title>
-		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comment-10</link>
+		<link>./../../khong-phan-loai/mv-muon-roi-ma-sao-con/index.html#comment-10</link>
 
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
 		<pubDate>Tue, 01 Jun 2021 03:48:00 +0000</pubDate>
-		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=49#comment-10</guid>
+		<guid isPermaLink="false">./../../index.html?p=49#comment-10</guid>
 
 					<description><![CDATA[spam]]></description>
 			<content:encoded><![CDATA[<p>spam</p>
@@ -48,11 +48,11 @@
 		<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
+		<link>./../../khong-phan-loai/chao-moi-nguoi/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 07:28:58 +0000</pubDate>
-		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=1#comment-1</guid>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.

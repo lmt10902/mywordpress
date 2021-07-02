@@ -9,7 +9,7 @@
 	<title>
 	Các phản hồi luận về: MV muộn rồi mà sao còn..	</title>
 	<atom:link href="http://localhost/myproject/wordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/</link>
+	<link>./../index.html</link>
 	<description>Sự thoải mái của bạn làm hài lòng chúng tôi</description>
 	<lastBuildDate>Tue, 01 Jun 2021 03:48:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: Mạnh Tuấn		</title>
-		<link>https://lmt10902.github.io/mywordpress/khong-phan-loai/mv-muon-roi-ma-sao-con/#comment-10</link>
+		<link>./../index.html#comment-10</link>
 
 		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
 		<pubDate>Tue, 01 Jun 2021 03:48:00 +0000</pubDate>
-		<guid isPermaLink="false">https://lmt10902.github.io/mywordpress/?p=49#comment-10</guid>
+		<guid isPermaLink="false">./../../../index.html?p=49#comment-10</guid>
 
 					<description><![CDATA[spam]]></description>
 			<content:encoded><![CDATA[<p>spam</p>
