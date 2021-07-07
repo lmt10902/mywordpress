@@ -11,41 +11,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Sự thoải mái của bạn làm hài lòng chúng tôi</description>
-	<lastBuildDate>Thu, 10 Jun 2021 08:05:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Jun 2021 06:32:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>
-		Phản hồi cho Du lịch Sài Gòn bởi Mạnh Tuấn		</title>
-		<link>./../../khong-phan-loai/du-lich-sai-gon/index.html#comment-12</link>
-
-		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 08:05:32 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=90#comment-12</guid>
-
-					<description><![CDATA[Hi]]></description>
-			<content:encoded><![CDATA[<p>Hi</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho MV muộn rồi mà sao còn.. bởi Mạnh Tuấn		</title>
-		<link>./../../khong-phan-loai/mv-muon-roi-ma-sao-con/index.html#comment-10</link>
-
-		<dc:creator><![CDATA[Mạnh Tuấn]]></dc:creator>
-		<pubDate>Tue, 01 Jun 2021 03:48:00 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=49#comment-10</guid>
-
-					<description><![CDATA[spam]]></description>
-			<content:encoded><![CDATA[<p>spam</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
 		<link>./../../khong-phan-loai/chao-moi-nguoi/index.html#comment-1</link>
